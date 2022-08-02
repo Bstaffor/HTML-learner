@@ -1,6 +1,9 @@
 # HTML-learner
 docs/index.html 
 <html>
+  <head>
+    <title> Sir Staffor's practice webpage </title>
+  </head>
   <main>
     <section>
       <h1>About me</h1>
@@ -10,6 +13,7 @@ docs/index.html
           <li>I'm just learning to code, it's really interesting</li>
           <li> The only language I kind of know right now is HTML and CSS (if that isn't super obvious)</li>
           <li>I have <a href = https://www.youtube.com/watch?v=dQw4w9WgXcQ> Only fans </a> </li>
+      </ul>
         <p>Anyways stay posted for more fun little updates</p>
   </main>
   
