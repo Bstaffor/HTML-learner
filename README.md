@@ -4,6 +4,7 @@ docs/index.html
   <head>
     <title> Sir Staffor's practice webpage </title>
   </head>
+  <body>
   <main>
     <section>
       <h1>About me</h1>
@@ -16,5 +17,5 @@ docs/index.html
       </ul>
         <p>Anyways stay posted for more fun little updates</p>
   </main>
-  
+    </body>
 </html>
