@@ -1,11 +1,9 @@
-# HTML-learner
-docs/index.html 
+<!DOCTYPE HTML>
 <html>
-  <head>
-    <title> Sir Staffor's practice webpage </title>
-  </head>
+  <head> <meta A practice webpage </head>
   <body>
   <main>
+    <div class="intro">
     <section>
       <h1>About me</h1>
         <p> I suppose you are curious about me and who I might be well heres a fun little list of random shit about me </p>
@@ -16,6 +14,7 @@ docs/index.html
           <li>I have <a href = https://www.youtube.com/watch?v=dQw4w9WgXcQ> Only fans </a> </li>
       </ul>
         <p>Anyways stay posted for more fun little updates</p>
+      </div>
   </main>
     </body>
 </html>
