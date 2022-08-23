@@ -15,6 +15,14 @@
       </ul>
         <p>Anyways stay posted for more fun little updates</p>
       </div>
+      <div>
+        <p>Want to get in contact with me?</p>
+        <fieldset>
+          <label>Enter your first name here:<input type="text" required></label>
+          <label>Enter your email here:<input type="email" required></label>
+          <label>Re-confirm your email here:<input type="email" required></label>
+        </fieldset>
+      </dv>
   </main>
     </body>
 </html>
