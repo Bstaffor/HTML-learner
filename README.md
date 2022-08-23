@@ -22,7 +22,7 @@
           <label>Enter your email here:<input type="email" required></label>
           <label>Re-confirm your email here:<input type="email" required></label>
         </fieldset>
-      </dv>
+      </div>
   </main>
     </body>
 </html>
